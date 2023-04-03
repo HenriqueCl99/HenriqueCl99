@@ -1,6 +1,6 @@
 ### Olá!! Eu sou o Antônio Henrique 😉
 ### BOAS VINDAS AO MEU PERFIL!
-- 🧐 Estou aprendendo um pouco sobre HTML, CSS e JavaScript no momento!
+- 🧐 Estou aprendendo um pouco sobre HTML, CSS e JavaScript!
 - 🌟 Tenho total interesse de trabalhar na área!
 - 🌐 De qualquer canto do mundo!
 
