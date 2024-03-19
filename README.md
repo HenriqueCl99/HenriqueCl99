@@ -15,7 +15,8 @@
   <img align="center" alt="Henrique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Henrique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Henrique-JavaScript" height="30" width="40 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Henrique-JavaScript" height="30" width="40 "src="https://www.php.net/images/logos/new-php-logo.svg" />
+  <img align="center" alt="Henrique-PHP" height="30" width="40 "src="https://www.php.net/images/logos/new-php-logo.svg" />
+</br>
 
 
   
