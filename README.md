@@ -1,6 +1,6 @@
 ### Olá!! Eu sou o Antônio Henrique 😉
 ### BOAS VINDAS AO MEU PERFIL!
-- 🧐 Estou aprendendo um pouco sobre PHP - LARAVEL - HTML - CSS e JavaScript.
+- 🧐 Estou aprendendo um pouco sobre PHP - HTML - CSS - bootstratp - JavaScript.
 - 🌟 Tenho total interesse de trabalhar na área!
 - 🌐 De qualquer canto do mundo!
 
